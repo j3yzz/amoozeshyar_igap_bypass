@@ -6,7 +6,9 @@
 **Link:** [tampermonkey](https://www.tampermonkey.net/)
 
 &rlm; 2.در مرحله ی بعد روی آیکون افزونه کلیک کنید &lrm;
-![]()
+
+![](https://github.com/omidforoqi/amoozeshyar_igap_bypass/blob/main/Screenshot.jpg)
+
 &rlm; 3. سپس روی گزینه ی ساخت اسکریپ جدید کلیک کرده &lrm;
 
 &rlm; 4. در اخر متن زیر را کپی کرده و در ادیتور باز شده جای گذاری کنید &lrm;
@@ -29,5 +31,5 @@
 })();
 ```
 <div dir="rtl">
-با دکمه های ترکیبی <strong> Ctrl + S </strong> فایل را ذخیره کنید 
+    فایل را با زدن دکمه های ترکیبی <strong> Ctrl + S </strong> ذخیره کنید
 </div>
