@@ -1,35 +1,14 @@
-# amoozeshyar_igap_bypass
-Amoozeshyar iGAP ByPass | دور زدن کد احراز هویت سامانه‌ی آموزشیار
+# Amoozeshyar igap bypass
+&rlm; روشی راحت برای دور زدن اجبار نصب آی گپ برای احراز هویت در سامانه آموزشیار  &lrm;
 
-<h3 align="center">دور زدن کد احراز هویت سامانه آموزشیار</h3>
+&rlm; 1. نصب افزونه ی زیر در مرورگر خود &lrm;
+**Link:** [tampermonkey](https://www.tampermonkey.net/)
 
-<hr>
+&rlm; 2.در مرحله ی بعد روی آیکون افزونه کلیک کنید &lrm;
+![]()
+&rlm; 3. سپس روی گزینه ی ساخت اسکریپ جدید کلیک کرده &lrm;
 
-
-
-
-<div dir="RTL">
-  <ul>
-      <li>
-        دانلود اکستنشن
-        <a href="https://tampermonkey.net">TamperMonkey</a>
-      </li>
-      <li>
-         بر روی آیکون اکستنش کلیک کنید و بر روی
-        <strong> Create a new script... </strong>
-        کلیک کنید.
-      </li>
-      <li>
-        کد زیر را وارد کنید و 
-        <strong> Cntrl + S </strong>
-        را بزنید.
-      </li>
-    <li>
-      حالا مثل روال سابق وارد آموزشیار بشید 😁
-    </li>
-   </ul>
-</div>
-
+&rlm; 4. در اخر متن زیر را کپی کرده و در ادیتور باز شده جای گذاری کنید &lrm;
 ```
 // ==UserScript==
 // @name         Amoozeshyar IGAP ByPass
@@ -48,3 +27,6 @@ Amoozeshyar iGAP ByPass | دور زدن کد احراز هویت سامانه‌
     document.head.appendChild(style);
 })();
 ```
+<div dir="rtl">
+با دکمه های ترکیبی <strong> Ctrl + S </strong> فایل را ذخیره کنید 
+</div>
