@@ -11,6 +11,10 @@ Amoozeshyar iGAP ByPass | دور زدن کد احراز هویت سامانه‌
 <div dir="RTL">
   <ul>
       <li>
+        دانلود اکستنشن
+        <a href="https://tampermonkey.net">TamperMonkey</a>
+      </li>
+      <li>
          بر روی آیکون اکستنش کلیک کنید و بر روی
         <strong> Create a new script... </strong>
         کلیک کنید.
