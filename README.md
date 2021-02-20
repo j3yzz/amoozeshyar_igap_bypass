@@ -8,7 +8,7 @@ Amoozeshyar iGAP ByPass | دور زدن کد احراز هویت سامانه‌
 
 
 
-<p dir="RTL">
+<div dir="RTL">
   <ul>
       <li>
          بر روی آیکون اکستنش کلیک کنید و بر روی
@@ -24,7 +24,7 @@ Amoozeshyar iGAP ByPass | دور زدن کد احراز هویت سامانه‌
       حالا مثل روال سابق وارد آموزشیار بشید 😁
     </li>
    </ul>
-</p>
+</div>
 
 ```
 // ==UserScript==
